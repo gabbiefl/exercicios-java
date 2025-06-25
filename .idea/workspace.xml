@@ -1,27 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9638678c-54f1-4c34-876e-43a2844bbda2" name="Changes" comment="" />
+    <list default="true" id="9638678c-54f1-4c34-876e-43a2844bbda2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercicios-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/01-fundamentos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/estruturas-condicionais/estruturas-condicionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/CadastroDeLivros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/ClassificacaoProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/ConversaoDeTemperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/ConversaoDeTipos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/ConversorDeMoedas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/DeclarandoValores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/ParOuImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/PlanejamentoViagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/PrimitivosEmAcao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/out/production/01-fundamentos/exercicios/VerificacaoDeIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-fundamentos/variaveis-e-tipos-de-dados/variaveis-e-tipos-de-dados.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2yucYXdD3y0594JkM2l1WfShBBn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PICHAU/OneDrive/Documentos/Estudos/Alura/exercicios-java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

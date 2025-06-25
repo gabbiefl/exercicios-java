@@ -1,0 +1,6 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Saída da compilação
+out/
